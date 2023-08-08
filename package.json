@@ -1,8 +1,7 @@
 {
-  "name": "movies-service",
+  "name": "movies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndreyLytvynov.github.io/movies-service/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.3",
